@@ -3,5 +3,5 @@
 ## ERD
 ![ERD](scheduleApp2/docs/erd.png)
 
-## API Specification
+## API 명세
 ![API Spec](scheduleApp2/docs/api.png)
